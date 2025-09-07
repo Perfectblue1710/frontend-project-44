@@ -22,5 +22,9 @@
   "homepage": "https://github.com/Perfectblue1710/frontend-project-44#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@stylistic/eslint-plugin": "^5.3.1",
+    "eslint": "^9.35.0"
   }
 }
