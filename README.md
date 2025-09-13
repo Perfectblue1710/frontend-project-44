@@ -5,3 +5,6 @@
 [Запись моей игры][def]
 
 [def]: https://asciinema.org/connect/e1b2b7dc-77b8-4bec-8796-c72952ad805b
+
+## BRAIN calc
+[Запись игры 2](https://asciinema.org/connect/e1b2b7dc-77b8-4bec-8796-c72952ad805b)
