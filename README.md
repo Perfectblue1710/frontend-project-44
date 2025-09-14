@@ -11,4 +11,6 @@
 ## BRAIN NOD
 [Запись игры 3](https://asciinema.org/connect/e1b2b7dc-77b8-4bec-8796-c72952ad805b)
 ## BRAIN PROGRESSION
-[Зааись игры 4](https://asciinema.org/connect/e1b2b7dc-77b8-4bec-8796-c72952ad805b)
+[Запись игры 4](https://asciinema.org/connect/e1b2b7dc-77b8-4bec-8796-c72952ad805b)
+## Brain PRIME 
+[Запись игры 5](https://asciinema.org/connect/e1b2b7dc-77b8-4bec-8796-c72952ad805b)
