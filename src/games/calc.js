@@ -1,5 +1,7 @@
+import runGame from '../index.js'
 import getRandomInt from '../utils.js'
 
+const description = 'What is the result of the expression?'
 const operators = ['+', '-', '*']
 
 const calculate = (a, b, operator) => {
@@ -15,7 +17,7 @@ const calculate = (a, b, operator) => {
   }
 }
 
-export default () => {
+const getRoundData = () => {
   const a = getRandomInt(1, 30)
   const b = getRandomInt(1, 30)
   const operator = operators[getRandomInt(0, operators.length - 1)]
@@ -24,4 +26,8 @@ export default () => {
   const answer = String(calculate(a, b, operator))
 
   return [question, answer]
+}
+
+export default () => {
+  runGame(description, getRoundData)
 }
